@@ -1,0 +1,38 @@
+.header{
+height: 50px;
+width: 100%;
+background-color: antiquewhite;
+text-align: center;
+
+}
+.content{
+    overflow: hidden;
+}
+.nav{
+ width: 30%; 
+ height: 500px;
+ background-color: rgb(213, 174, 250); 
+ float: left; 
+
+}
+.artical{
+    width: 50%;
+    height: 500px;
+    background-color: rgb(245, 176, 86);
+    float: left;
+
+}
+.ads{
+    width: 20%;
+    height: 500px;
+    background-color: crimson;
+    float: left;
+}
+.footer{
+    height: 50px;
+    width: 100%;
+    background-color: darkblue;
+    color: rgb(255, 255, 255);
+    text-align: center;
+
+}
